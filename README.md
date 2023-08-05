@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, there! I'm a PhD candidate in the field of electro-optical engineering, and hardware and the Internet of Things are my passions. In addition, I am acquainted with programming languages like Python, C++, and Java, as well as machine learning and cloud platforms like AWS and Microsoft Azure.
+Hello, there! I'm a PhD student in the field of electro-optical engineering, and hardware and the Internet of Things are my passions. In addition, I am acquainted with programming languages like Python, C++, and Java, as well as machine learning and cloud platforms like AWS and Microsoft Azure.
 
 
 ## 🌐 Socials:
